@@ -1,0 +1,68 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"Kriti Sanon",
+                "email":"xyz.vvit@gmal.com",
+                "mobile":"+91 9876543210"
+            },
+            "education":[
+                {
+                    "degree":"SSC",
+                    "percentage":"95%",
+                    "institute":"bits"
+                },
+                {
+                    "degree":"Intermediate(MPC)",
+                    "percentage":"90%",
+                    "institute":"Gadwal"
+                },
+                {
+                    "degree":"Fashion design",
+                    "percentage":"85%",
+                    "institute":"Mahishmathi"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"Acting",
+                    "values":["Dance","Dubbing","Singing"]
+                }
+            ]
+        },
+        {
+            "basics":{
+                "name":"Sushanth Singh Rajput",
+                "email":"jpf.vvit@gmal.com",
+                "mobile":"+91 1029384756"
+            },
+            "education":[
+                {
+                    "degree":"SSC",
+                    "percentage":"97%",
+                    "institute":"Udayghar"
+                },
+                {
+                    "degree":"Intermediate(BiPC)",
+                    "percentage":"87%",
+                    "institute":"Kuntala"
+                },
+                {
+                    "degree":"Modeling",
+                    "percentage":"85%",
+                    "institute":"kgf"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"Acting",
+                    "values":["Dance","Fighting","Dubbing"]
+                },
+                {
+                    "type":"Social Server",
+                    "values":[]
+                }
+            ]
+        }
+    ]
+}
